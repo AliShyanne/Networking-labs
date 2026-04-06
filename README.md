@@ -144,25 +144,25 @@ The network successfully provides segmented communication between departments wh
 ![Topology](Topology.png)
 
 ### Switch Interface / VLAN Assignment
-![Switch Interface](switch interface.png)
+![Switch Interface](switchinterface.png)
 
 ### Router Interface / Subinterfaces
-![Router Interface](router interface.png)
+![Router Interface](routerinterface.png)
 
 ### ISP Router Interface
-![ISP Router Interface](ISP Router interface.png)
+![ISP Router Interface](ISPRouterinterface.png)
 
 ### ASA Interface
-![ASA Interface](ASA interface.png)
+![ASA Interface](ASAinterface.png)
 
 ### Internal Server Interface
-![Internal Server Interface](Internet Server interface.png)
+![Internal Server Interface](InternetServerinterface.png)
 
 ### DHCP Client Assignment
-![DHCP Client](DHCP Client.png)
+![DHCP Client](DHCPClient.png)
 
 ### ACL Rules
-![ACL Rules](ACL rules.png)
+![ACL Rules](ACLrules.png)
 
 ### Connectivity Test
-![Connectivity Test](Connectivity test.png)
+![Connectivity Test](Connectivitytest.png)
