@@ -137,3 +137,32 @@ The network successfully provides segmented communication between departments wh
 - Network security (ACLs, firewall, AAA)
 - Secure device management (SSH)
 - End-to-end troubleshooting across multiple network layers
+
+- ## Screenshots
+
+### Network Topology
+![Topology](Topology.png)
+
+### Switch Interface / VLAN Assignment
+![Switch Interface](switch interface.png)
+
+### Router Interface / Subinterfaces
+![Router Interface](router interface.png)
+
+### ISP Router Interface
+![ISP Router Interface](ISP Router interface.png)
+
+### ASA Interface
+![ASA Interface](ASA interface.png)
+
+### Internal Server Interface
+![Internal Server Interface](Internet Server interface.png)
+
+### DHCP Client Assignment
+![DHCP Client](DHCP Client.png)
+
+### ACL Rules
+![ACL Rules](ACL rules.png)
+
+### Connectivity Test
+![Connectivity Test](Connectivity test.png)
